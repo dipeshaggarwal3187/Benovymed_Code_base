@@ -1,4 +1,4 @@
-DOCAPP
+Benovymed_Code_base
 ======
 
 The main aim of the app was to make it easier to connect Patients and Doctors.
