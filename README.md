@@ -1,8 +1,6 @@
 DOCAPP
 ======
 
-This Android app was built during AngelHack Dubai.
-
 The main aim of the app was to make it easier to connect Patients and Doctors.
 
 Goals of the app are:
